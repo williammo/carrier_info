@@ -1,10 +1,11 @@
-name: carrier_info
-description: Carrier Info gets networkType, networkGeneration, mobileCountryCode, mobileCountryCode, e.t.c from both android and ios devices
-version: 3.0.0
-homepage: https://github.com/Zfinix/carrier_info
+name: shennong_carrier_info
+description: 神农定制的 carrier_info 插件（基于官方 3.0.x，补充 Android namespace 声明以兼容 AGP 8.x 构建）。
+version: 3.0.4
+homepage: https://github.com/williammo/carrier_info
 
 environment:
-  sdk: '>=2.17.0 <3.0.0'
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
 
 dependencies:
   flutter:

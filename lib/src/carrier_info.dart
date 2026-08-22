@@ -1,6 +1,6 @@
 import 'dart:async';
 
-import 'package:carrier_info/carrier_info.dart';
+import 'package:shennong_carrier_info/carrier_info.dart';
 import 'package:flutter/services.dart';
 
 class CarrierInfo {

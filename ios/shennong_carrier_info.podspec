@@ -1,9 +1,9 @@
 #
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html.
-# Run `pod lib lint carrier_info.podspec' to validate before publishing.
+# Run `pod lib lint shennong_carrier_info.podspec' to validate before publishing.
 #
 Pod::Spec.new do |s|
-  s.name             = 'carrier_info'
+  s.name             = 'shennong_carrier_info'
   s.version          = '0.0.1'
   s.summary          = 'A new flutter plugin project.'
   s.description      = <<-DESC

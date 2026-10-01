@@ -1,6 +1,6 @@
 name: shennong_carrier_info
 description: 神农定制的 carrier_info 插件（基于官方 3.0.x，补充 Android namespace 声明以兼容 AGP 8.x 构建）。
-version: 3.0.4
+version: 3.0.5
 homepage: https://github.com/williammo/carrier_info
 
 environment:
